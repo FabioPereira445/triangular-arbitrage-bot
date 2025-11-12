@@ -1,0 +1,2 @@
+# triangular-arbitrage-bot
+🔄 Triangular Arbitrage Bot - Google Colab Bot de arbitragem triangular para Binance executando no Google Colab.  📋 O que este notebook faz? Escaneia a Binance buscando oportunidades de arbitragem triangular Calcula lucros reais (após taxas) Exibe oportunidades em tempo real Salva histórico para análise .
